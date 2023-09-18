@@ -21,12 +21,12 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 [![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea//)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
 ## Habilidades 
 
+ > ** Sou comunicativo, resiliente, companheiro, pontual, flexível e não desisto nunca ** 🖖
 <!--
 **junior-brandao/junior-brandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
