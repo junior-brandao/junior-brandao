@@ -31,6 +31,8 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 ## E-mail: <edilson_brandaojunior@hotmail.com>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorbrandao/)
+#### Telefone 55-83-99818-4302
+
 <!--
 **junior-brandao/junior-brandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
