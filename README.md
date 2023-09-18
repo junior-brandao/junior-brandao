@@ -6,6 +6,7 @@ Possuo mais de 4 anos de experiência na área de desenvolvimento de software, c
 Minha trajetória profissional tem sido marcada por desafios emocionantes, conquistas significativas e a busca, através da prática, a solução dos problemas reais.
 Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibilidade e busca em  ser o mais resoluto possível, o que me permite entregar resultados excepcionais e construir relacionamentos sólidos com colegas, clientes e parceiros de negócios. 
 
+## Principais tecnologias e ferramantas 
 
 <!--
 **junior-brandao/junior-brandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
