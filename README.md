@@ -26,7 +26,9 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 
 ## Habilidades 
 
- > ** Sou comunicativo, resiliente, companheiro, pontual, flexível e não desisto nunca ** 🖖
+ >  `Sou comunicativo, resiliente, companheiro, pontual, flexível e não desisto nunca`  🖖
+
+
 <!--
 **junior-brandao/junior-brandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
