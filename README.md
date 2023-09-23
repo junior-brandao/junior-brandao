@@ -1,6 +1,6 @@
-## Olá, me chamo Edilson Brandão, sou casado, tenho dois filhos, um pet(Tell), sou Paraibano e tenho formação em Análise e Desenvolvimento de Sistemas. ⚡ 
-
-### :brazil:  :portugal:  :es: :canada:
+## ⚡ Olá, me chamo Edilson Brandão, sou casado, tenho dois filhos, um pet(Tell), sou Paraibano e tenho formação em Análise e Desenvolvimento de Sistemas. :brazil:  :portugal:  :es: :canada:   
+ 
+### 
 
 Atuo na área de Desenvolvimento de Sistemas.
 Sou um constante aprendiz, fascinado em tecnologias e novos conhecimentos, e é um prazer recebê-lo aqui no meu perfil.
@@ -26,12 +26,12 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-brandao&hide_progress=false&layout=compact&custom_title=Tecnologias&card_width=500)
 
 ## Habilidades 
 
  >  `Sou comunicativo, resiliente, companheiro, pontual, flexível e não desisto nunca`  🖖
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-brandao&hide_progress=false&layout=compact)
 
 ## E-mail: <edilson_brandaojunior@hotmail.com>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorbrandao/)
