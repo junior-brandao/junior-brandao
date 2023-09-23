@@ -31,7 +31,9 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 
  >  `Sou comunicativo, resiliente, companheiro, pontual, flexível e não desisto nunca`  🖖
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbrandaol&hide_progress=false)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-brandao&hide_progress=false)
 
 ## E-mail: <edilson_brandaojunior@hotmail.com>
 
