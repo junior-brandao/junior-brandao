@@ -33,7 +33,7 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-brandao&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-brandao&hide_progress=true)
 
 ## E-mail: <edilson_brandaojunior@hotmail.com>
 
