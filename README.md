@@ -34,4 +34,4 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorbrandao/)
 #### Telefone 55-83-99818-4302
 
- :brazil: | `:brazil:` | 
+ :brazil: 
